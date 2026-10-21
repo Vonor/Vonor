@@ -1,8 +1,3 @@
-<p align="center">
-  <!-- Hero image: drop your file at assets/hero.png (recommended ~1600x400), or change the path below -->
-  <img src="assets/hero.png" alt="Hero image" width="100%">
-</p>
-
 # Hi, I'm Michael 👋
 
 Platform Engineer · Tech Lead Infrastructure, based in the Rhine Valley, Germany. Linux since 1999. I make platforms **recoverable, reproducible and boring to operate**. My own skills run on a loop: learn it, build it, wipe it, rebuild it. Repeat.
